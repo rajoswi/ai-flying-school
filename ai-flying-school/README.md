@@ -1,6 +1,6 @@
 # AI Student Metrics & Safety Early Warning System - Hackathon Repo
 
-This repository is a hackathon-ready prototype for detecting 'at-risk' cadets in a flying school.
+This repository is a prototype for detecting 'at-risk' cadets in a flying school.
 
 ## Contents
 - `backend/` - FastAPI backend, training script, model, sample CSV
